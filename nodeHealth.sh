@@ -12,7 +12,6 @@
 #set -x # Uncomment for Debug Mode
 set -e # Exit the script when error occurs
 set -o pipefail # Pipefail
-
 # set -exo pipefail
 
 
